@@ -104,14 +104,14 @@ SHASHANK_IMG = getenv("SHASHANK_IMG", "https://h.uguu.se/rbricwLU.jpg").split(",
 
 START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/5go4t6.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/ohezme.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ohezme.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/ohezme.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
+PLAYLIST_IMG_URL = "https://image.zaw-myo.workers.dev/image/fd0887f6-d2dc-41c6-9f6c-05c62f8928c6"
+STATS_IMG_URL = "https://image.zaw-myo.workers.dev/image/fd0887f6-d2dc-41c6-9f6c-05c62f8928c6"
+TELEGRAM_AUDIO_URL = "https://image.zaw-myo.workers.dev/image/fd0887f6-d2dc-41c6-9f6c-05c62f8928c6"
+TELEGRAM_VIDEO_URL = "https://image.zaw-myo.workers.dev/image/fd0887f6-d2dc-41c6-9f6c-05c62f8928c6"
+STREAM_IMG_URL = "https://image.zaw-myo.workers.dev/image/fd0887f6-d2dc-41c6-9f6c-05c62f8928c6"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
+YOUTUBE_IMG_URL = "https://image.zaw-myo.workers.dev/image/fd0887f6-d2dc-41c6-9f6c-05c62f8928c6"
+SPOTIFY_ARTIST_IMG_URL = "https://image.zaw-myo.workers.dev/image/fd0887f6-d2dc-41c6-9f6c-05c62f8928c6"
 SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
 
